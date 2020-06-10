@@ -118,9 +118,4 @@ client.on('message', async (msg) => {
 	}
 });
 
-function sleep(ms) {
-	return new Promise((resolve) => {
-		setTimeout(resolve, ms);
-	});
-}
-client.login(config.token);
+client.login(process.env.token);

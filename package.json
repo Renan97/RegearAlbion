@@ -1,0 +1,32 @@
+{
+  "name": "disbot",
+  "version": "1.0.0",
+  "description": "A disord bot\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dc",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "html-to-image": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renan97/RegearAlbion.git"
+  },
+  "keywords": [
+    "regear",
+    "albion"
+  ],
+  "author": "Renan Santos Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renan97/RegearAlbion/issues"
+  },
+  "homepage": "https://github.com/Renan97/RegearAlbion#readme"
+}

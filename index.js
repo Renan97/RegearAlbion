@@ -41,7 +41,7 @@ const main = async (url) => {
 	let lengthInv = $('.col-xl-9.col-lg-8').find('.col-xl-12').find('a').length;
 	x = 0;
 	y = 75;
-	let baseUrl = 'https://gameinfo.albiononline.com/api/gameinfo/items/';
+	let baseUrl = 'https://render.albiononline.com/v1/item/';
 	for (let j = 0; j <= lengthInv - 1; j++) {
 		let erro = 0;
 		let urlLength = $('.col-xl-9.col-lg-8')

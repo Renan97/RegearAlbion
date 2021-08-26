@@ -1,4 +1,4 @@
-const Discord = require('bot.js');
+const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require('./config.json');
 const axios = require('axios');
